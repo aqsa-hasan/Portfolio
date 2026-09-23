@@ -4,7 +4,7 @@ import './App.css'
 const personalInfo = [
   { label: 'Phone', value: '9058193864', href: 'tel:+919058193864', icon: '📞' },
   { label: 'Email', value: 'aqsa.turki786@gmail.com', href: 'mailto:aqsa.turki786@gmail.com', icon: '✉️' },
-  { label: 'LinkedIn', value: 'aqsa-hasan', href: 'https://www.linkedin.com/in/aqsa-hasan', icon: '💼' },
+  { label: 'LinkedIn', value: 'aqsa-hasan', href: 'https://www.linkedin.com/in/aqsa-hasan-420553317/', icon: '💼' },
   { label: 'Location', value: 'Rampur', href: '#', icon: '📍' },
 ]
 
